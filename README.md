@@ -1,3 +1,3 @@
 # MichalChoma
 
-- [deploy](daftacademy-app.vercel.app/)
+- [deploy](https://daftacademy-app.vercel.app/)
