@@ -1,3 +1,3 @@
-# Hippoptype <- nazwa profilu na githubie
+# MichalChoma
 
 - [deploy](https://cls-1-hippopotype.vercel.app/)
